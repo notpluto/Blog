@@ -4,7 +4,7 @@ date: "2019-05-30"
 ---
 So I was recently introduced to this new medium of writing blogs by [@nnnkit](https://twitter.com/nnnkit). This got me curious and led me to set this site up. Pushing out blogs from your code editors. Nice eh? :)
 
-#### Some of you may wonder, what I plan to do with this now?
+#### Some of you may wonder what I plan to do with this now?
 
 Well, for starters my aim is to write and publish things I learn or consume on regular basis. It could be about.
 
