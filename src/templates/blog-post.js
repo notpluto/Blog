@@ -14,38 +14,15 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <Layout location={this.props.location}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
-        />
+        <SEO title={post.frontmatter.title} description={post.frontmatter.description || post.excerpt} />
         <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
+        <p style={{...scale(-1 / 5), display: `block`, marginBottom: rhythm(1), marginTop: rhythm(-1), }}>
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <hr style={{ marginBottom: rhythm(1),}}/>
         <Bio />
-
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
+        <ul style={{ display: `flex`,flexWrap: `wrap`,justifyContent: `space-between`, listStyle: `none`, padding: 0,}}>
           <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
