@@ -38,7 +38,7 @@ Handlers are basically the functions which execute when the event happens. Letâ€
 
 <b>addEventListener()</b>: this is an inbuilt function in JS which takes the event to listen for, and a second argument(listener) to be called whenever the mentioned event gets fired.
 
-</b>event</b>: as already discussed, an event can be anything which would like to monitor or listen for in the DOM.
+<b>event</b>: as already discussed, an event can be anything which would like to monitor or listen for in the DOM.
 
 <b>handler function</b>: a function which responds at the time event occurs.
 
