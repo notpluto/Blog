@@ -1,5 +1,5 @@
 ---
-title: Event Delegation in Javacscript
+title: Event Delegation in Javascript
 date: "2019-07-01"
 ---
 

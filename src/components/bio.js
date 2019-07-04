@@ -38,7 +38,7 @@ function Bio() {
               }}
             />*/}
             <p>
-              Written by <strong>{author}</strong> who currently lives in Dharamshala and spends his days learning code among other imaginative things.
+              Written by <strong>{author}</strong> who currently lives in Dharamshala and spends his days learning to code among other imaginative things.
               {` `}<br/>
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow him on Twitter
