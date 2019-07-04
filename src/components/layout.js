@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { rhythm, scale } from "../utils/typography"
-import SwitchMode from "./toggle"
+// import SwitchMode from "./toggle"
 
 class Layout extends React.Component {
   render() {
