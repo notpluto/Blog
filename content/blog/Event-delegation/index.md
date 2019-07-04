@@ -48,7 +48,7 @@ We are now in position to discuss event delegation. Let’s use an example here.
 
 <!-- ![event-delegation-tree](./delegate-tree.png) -->
 
-```
+```html
 <ul id = "parent"> 
     <li class = "child"> First </li>
     <li class = "child"> Second </li>
@@ -62,7 +62,7 @@ This is where event delegation comes in. It can optimise the performance of our 
 
 We will write two excerpt of the code: one without involving delegation and other one using it.
 
-```
+```js
 const children = Array.from(document.getElementByClassName('child'));
 children.forEach(child => {
    child.addEventListener('click', () => console.log(inner.HTML));
@@ -72,7 +72,7 @@ children.forEach(child => {
 
 Here we have applied event listener to each of our child elements. The above code can be written as follows using the event delegation method.
 
-```
+```js
 const parent = document.getElementbyId('parent');
 parent.addEventListener('click', e => {
     if (e.target.className === 'child') {
