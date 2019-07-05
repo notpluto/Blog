@@ -30,7 +30,7 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div style={{ margin: `auto`, maxWidth: rhythm(24), padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,}}>
+      <div style={{ margin: `auto`, maxWidth: rhythm(28), padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,}}>
         <header>{header}</header>
         <main>{children}</main>
         <footer>

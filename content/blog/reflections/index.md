@@ -7,7 +7,7 @@ date: "2019-07-04"
 
 <i>(Most part of this post was written in early February, since then it's been sitting in my drafts)</i>
 
-> How does one make a decision when presented by the dilemma: to explore or exploit?
+> <i>How does one make a decision when presented by the dilemma: to explore or exploit?</i>
 
 A few years back when I first started being outdoors, it was easy for me to form an opinion that living in the mountains or, more amidst nature is something I would be doing more of in the days to come. Though looking back at it now it would be fair to say that I was more in love with the 'concept' of doing it than 'doing' itself. Well, this time it wasn't exactly the same but until a few months back, it never occurred to me that something along these lines would come up again with [AltCampus](https://altcampus.io).
 
@@ -17,7 +17,7 @@ The other side of this was the curiosity to move and see what's on the developer
 
 It's been a month I have been trying to write describing my days here in Rakkar. My time here so far reminds me of something a friend once said:
 
-> Such a rush, to do nothing at all.
+> <i>Such a rush, to do nothing at all.</i>
 
 This is different from the time when I was backpacking on a shoe-string budget in 2016. Those were the days to quench the wanderlust in me, though the thirst hasn't died down yet, I would say my time here is more with a purpose. Our decisions are somewhere more subjective than we credit them to be. They are influenced by one's opinions, beliefs, perspective and of course personal feelings. For some it acts as a catalyst. I know people who prefer to follow a more objective approach to doing things by keeping their emotions aside from their decision making. But for me, this has never seemed to work. There can be many argument in favor of this but the one which seems more plausible is allowing yourself to expand your so-called 'comfort zone'. By this, you are no longer confined to a single entity or the same mindset. 
 
