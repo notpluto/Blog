@@ -32,7 +32,8 @@ Next, let’s talk about event handlers now.
 
 Handlers are basically the functions which execute when the event happens. Let’s break it down using the syntax:
 
-`syntax: element.addEventListener(event, handler function, useCapture)`
+`syntax: element.addEventListener(event, handler function, useCapture)
+`
 
 <b>element</b>: This is the HTML element to which you would like to assign an event, this is also referred as event target.
 

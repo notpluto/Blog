@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `notpluto_`,
+      github: `notpluto`
     },
   },
   plugins: [
@@ -35,6 +36,10 @@ module.exports = {
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              aliases:{sh: "bash", js:"javascript"},
+              showLineNumbers: true,
+            },
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
