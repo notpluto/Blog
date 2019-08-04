@@ -38,7 +38,7 @@ Once the file is created we can add this code:
 const cron = require('node-cron');
 const express = require('express');
 const fs = require('fs');
-const nodemailer = require('nodemailer')
+const nodemailer = require('nodemailer');
 
 app = express();
 
@@ -151,7 +151,14 @@ cron.schedule('* * * * *', () =>{
 
 ```
 Fire up your terminal for one last time and run<br />
-``` node index.js ```
+``` js
+node index.js 
+
+```
 
 Wait for the interval you have defined above(in our case it's at the start of every minute), and email should get delivered to the specified recipient.
+
+Here's a screenshot of the email I received:
+
+![nodemailer-cron-job](./nodemailer.jpg)
 
