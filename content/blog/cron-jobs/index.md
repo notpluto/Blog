@@ -1,5 +1,5 @@
 ---
-title: Using Cron Jobs with NodeJS
+title: Scheduling cron jobs with NodeJS
 date: "2019-08-04"
 ---
 
