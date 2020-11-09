@@ -1,6 +1,6 @@
 ---
 title: Simple pleasures
-date: "2019-11-09"
+date: "2020-11-09"
 ---
 
 After coming across [this](https://zwbetz.com/simple-pleasures/) list, I am starting one of my own. 
