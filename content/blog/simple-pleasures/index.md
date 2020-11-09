@@ -9,8 +9,8 @@ I'll keeping on adding to this as and when possible.
 
 1. A good night's sleep
 2. Completing a run
-3. Reaching the summit
-4. Peeing after holding for long
+3. Peeing after holding for a long time
+4. Reaching the summit
 5. Watching the snow fall
 6. Hugs, when initiated by others
 7. Pancakes for breakfast at 15k feets
@@ -22,4 +22,5 @@ I'll keeping on adding to this as and when possible.
 13. Effortless conversations
 14. Staying up all night to watch the sunrise
 15. Smoking up a good batch of pot
+16. Finishing a book only to start reading it again
 
